@@ -1,0 +1,13 @@
+<?php
+$opauth_config = [
+    'path' => '/auth/',
+    'callback_url' => '{path}callback.php',
+    'security_salt' => 'MODIFY_ME',
+
+    'Strategy' => [
+        'Twitter' => [
+            'key' => 'xxx',
+            'secret' => 'xxx'
+        ],
+    ],
+];

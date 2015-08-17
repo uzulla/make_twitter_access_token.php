@@ -1,0 +1,6 @@
+{
+    "require": {
+        "opauth/twitter": "*",
+        "opauth/opauth": "*"
+    }
+}
